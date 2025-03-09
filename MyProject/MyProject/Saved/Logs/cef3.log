@@ -1,0 +1,2 @@
+[0309/120535.797:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Klíc není platný pro použití v zadaném stavu. (0x8009000B)
+[0309/120736.661:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

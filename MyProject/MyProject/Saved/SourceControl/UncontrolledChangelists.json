@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Matej/Documents/Unreal Projects/MyProject/MyProject/Content/Experimental-house/l_ExperimentalHouse.umap",
+				"C:/Users/Matej/Documents/Unreal Projects/MyProject/MyProject/Content/Experimental-house/house2.uasset",
+				"D:/SKU0122/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/SKU0122/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset",
+				"D:/SKU0122/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/stolecek.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/54/R2P5QIWGAD9WX9FWR8EH4G.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0Q/ZOHNKR7RAOV6UFWM958ELR.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/F9/103BP9G5C1SDJ8OJ5DORXO.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/untitled.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TC/2VWHA6J11B3MW2DODEXBPS.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/SM_Book.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/M_Book.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/T_Book.uasset",
+				"D:/SKU0122/MyProject/Content/myMesh/BP_Book.uasset",
+				"D:/SKU0122/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2J/8QGLZS6YILUNMIWU4BB6VR.uasset",
+				"D:/SKU0122/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/86/P1FPLYKD1XZHETM17IHSAN.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/l_ExperimentalHouse.umap",
+				"D:/SKU0122/MyProject/Content/Experimental-house/book.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/BookCover.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/house.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/kniha.uasset",
+				"D:/SKU0122/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"D:/SKU0122/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/Plane.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/Plane_001.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/Plane_002.uasset",
+				"D:/SKU0122/MyProject/Content/Experimental-house/stolecek.uasset"
+			]
+		}
+	]
+}
